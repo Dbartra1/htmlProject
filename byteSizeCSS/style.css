@@ -1,0 +1,26 @@
+#box {
+  background-color: blue;
+  width: 200px;                    <!This can also be expresed in a percent>
+  height: 25px;
+  padding: 20px;
+  border: 2px solid red;
+  margin: 10px auto 10px auto;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 25px;
+}
+
+#box2 {
+  background-color: aquamarine;
+  margin-left: 10px;
+  padding: 0px 10px 30px 40px;
+  text-align: center; 
+}
+
+.fruits {
+  color: green;
+}
+
+.meats{
+  color: red;
+}
